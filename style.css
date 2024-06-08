@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-download {
+    background-color: #00FFFF;;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .btn-download:hover {
+    background-color: #1A1A1A;
+  }
+button{
+    background-color: #6c757d;
+    border: none;
+    color: white;
+  }
+
+  
+  
